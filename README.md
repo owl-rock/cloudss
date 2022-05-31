@@ -6,7 +6,8 @@
 
 ### 每月 256GB，
 ### 无限节点，
-### 同时允许5 台设备使用Win/Mac/Android/iOS专用软件
+### 同时允许5 台设备使用
+### Win/Mac/Android/iOS专用软件
 
 ### 购买地址 [https://portal.cloudss.org/aff.php?aff=6427](https://portal.cloudss.org/aff.php?aff=6427)
 
