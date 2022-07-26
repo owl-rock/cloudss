@@ -2,14 +2,14 @@
 
     翻墙 - 科学上网 高速稳定VPN
 
-### 购买地址 [https://portal.cloudss.org/aff.php?aff=6427](https://portal.cloudss.org/aff.php?aff=6427)
+### 购买地址 [https://global.cloudss.org/aff.php?aff=6427](https://global.cloudss.org/aff.php?aff=6427)
 
 ### 每月 256GB，
 ### 无限节点，
 ### 同时允许5 台设备使用
 ### Win/Mac/Android/iOS专用软件
 
-### 购买地址 [https://portal.cloudss.org/aff.php?aff=6427](https://portal.cloudss.org/aff.php?aff=6427)
+### 购买地址 [https://global.cloudss.org/aff.php?aff=6427](https://global.cloudss.org/aff.php?aff=6427)
 
 ## Windows 设备
 #### Windows	V2rayN [下载地址](https://dl.cloudv2.net/v2rayN-v3.27.zip)
